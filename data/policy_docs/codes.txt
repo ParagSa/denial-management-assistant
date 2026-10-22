@@ -1,0 +1,7 @@
+CO-97: The benefit for this service is included in the payment/allowance for another service/procedure that has already been adjudicated. Appeal by verifying the service wasn't already bundled; submit documentation showing it was a distinct procedure.
+
+CO-16: Claim/service lacks information needed for adjudication. Appeal by resubmitting with the missing information identified in the remittance advice.
+
+PR-1: Deductible amount. Not typically appealable; verify patient's deductible status.
+
+CO-50: These are non-covered services because this is not deemed a medical necessity. Appeal with medical necessity documentation, physician notes, and relevant clinical guidelines.
